@@ -34,7 +34,7 @@ if [ $# -eq 0 ]; then
     exit 1
 fi
 
-bitrate="96k"
+bitrate="48k"
 
 finput="$1"
 
