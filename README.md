@@ -14,6 +14,10 @@
 
 ffmpeg-m4a-bitrate48k.workflow
 
+[quick-actions/ffmpeg-m4a-bitrate48k.workflow.zip](quick-actions/ffmpeg-m4a-bitrate48k.workflow.zip)
+
+[quick-actions/ffmpeg-m4a-bitrate96k.workflow.zip](quick-actions/ffmpeg-m4a-bitrate96k.workflow.zip)
+
 ```bash
 
 #!/bin/bash
