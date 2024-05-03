@@ -1,8 +1,15 @@
 # MacOS Finder Quick Actions Automator
 🎰 MacOS Finder Quick Actions Automator
 
+- [FFPEG convert any audio to .m4a with bitrate ](#ffpeg-convert-any-audio-to-m4a-with-bitrate)
+- [etc]()
 
-#### Where it lives: 
+
+View all raw actions:
+
+[quick-actions](quick-actions)
+
+Where it soreed on Mac: 
 
 ```bash
 
@@ -10,8 +17,6 @@
 
 ```
 
-- [FFPEG convert any audio to .m4a with bitrate ](#ffpeg-convert-any-audio-to-m4a-with-bitrate)
-- [etc]()
 
 ### FFPEG convert any audio to .m4a with bitrate 
 
